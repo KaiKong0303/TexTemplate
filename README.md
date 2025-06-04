@@ -228,7 +228,7 @@ The disadvantage is that the text placement can be cumbersome at times, but see 
 
 To include them in your document use
 ```
-\includesvg{figs/figure.pdf_tex}
+\includesvg{figs/figure.pdf_tex}f
 ```
 
 #### Interactive Preview
@@ -403,7 +403,7 @@ make view
     
     
     - `Meslets are used for skinned meshes~\cite{Unterguggenberger21CMB}.`; or
-    - `Unterguggenberger et al.~\shortcite{Unterguggenberger21CMB} use Meshlets, too.`,
+    - `Unterguggenberger et al.~\cite{Unterguggenberger21CMB} use Meshlets, too.`,
     
     instead.
     
